@@ -43,4 +43,10 @@ return {
          format = 'mailto:$0',
       },
    },
+
+   window_decorations = "INTEGRATED_BUTTONS|RESIZE",
+   initial_rows = 36,
+   initial_cols = 120,
+
+   canonicalize_pasted_newlines = "LineFeed"
 }
